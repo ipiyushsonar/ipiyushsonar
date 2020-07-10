@@ -9,7 +9,7 @@
 
 - Many would call me a "nerd", and I am okay with this 🧠 (I enjoy a good documentary or tech talk)
 - A fascination with the world wide web 🌎 🖥 has been present for most of my life (since early 2000s)
-- Hobbies include... 📷 Photography, 🛫 Travel, 🎮 Simulation Games 
+- Hobbies include... 📚 Reading Books (Adventure, Fiction), 🛫 Travel, 🎮 Games 
 
 ### Current Projects/Goals
 - Searching for the next chapter in my Web Development career
@@ -19,6 +19,7 @@
 - Learn **PWA**, **Typescript**, and **Redux**.
 - Learn payment gateway APIs
 
+<!--
 ### Webfresh! (2020 portfolio)
 
 This past year, I took a long look at my online web presence. It was apparent that I had outgrown my simple [liamhockley.me](https://liamhockley.me) Github Pages site. 
@@ -27,7 +28,7 @@ I needed to build something that could showcase a significant amount of learning
 
 [Webfresh](https://www.webfreshdev.com) was born! 
 
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -36,4 +37,5 @@ I needed to build something that could showcase a significant amount of learning
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
