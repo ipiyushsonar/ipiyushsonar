@@ -1,4 +1,4 @@
-## Daniel Paulino
+## Greetings 👋
 
 Hi! I'm Piyush 🙋🏽‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽.
 
