@@ -1,7 +1,6 @@
-## Greetings 👋
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Greetings%20👋&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=230&section=header&text=Greetings%20👋&fontSize=80)
 
-Hi! I'm Piyush 🙋🏽‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽.
+Hi! I'm Piyush 🙋‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽.
 
 ### Some facts about me:
 
@@ -27,7 +26,7 @@ Connect with me: https://www.linkedin.com/in/ipiyushsonar
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer)
 
 <!--
-
+## Greetings 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
