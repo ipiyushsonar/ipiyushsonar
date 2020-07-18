@@ -21,6 +21,8 @@ Find me on twitter: https://twitter.com/ipiyushsonar
 
 Connect with me: https://www.linkedin.com/in/ipiyushsonar
 
+---
+
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=["stars"])
 
 
