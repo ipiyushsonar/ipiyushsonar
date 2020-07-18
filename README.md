@@ -1,4 +1,5 @@
 ## Greetings 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Greetings%20👋&fontSize=80)
 
 Hi! I'm Piyush 🙋🏽‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽.
 
@@ -22,6 +23,8 @@ Find me on twitter: https://twitter.com/ipiyushsonar
 Connect with me: https://www.linkedin.com/in/ipiyushsonar
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=["stars"])
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer)
 
 <!--
 
