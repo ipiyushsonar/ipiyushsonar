@@ -23,7 +23,7 @@ Connect with me: https://www.linkedin.com/in/ipiyushsonar
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=["stars"])
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer)
+
 
 <!--
 ## Greetings 👋
@@ -35,5 +35,5 @@ Connect with me: https://www.linkedin.com/in/ipiyushsonar
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer)
 -->
