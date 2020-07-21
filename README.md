@@ -1,6 +1,5 @@
-![header](https://github.com/ipiyushsonar/ipiyushsonar/blob/master/wave.svg)
 
-## Greetings 👋
+## Greetings 👋🏼
 
 Hi! I'm Piyush 🙋‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽.
 
@@ -18,10 +17,10 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software engineer, and by night I bui
 - Learn **PWA**, **Typescript**, and **Redux**.
 - Learn payment gateway APIs
 
-## Talk to me
-Find me on twitter: https://twitter.com/ipiyushsonar
-
-Connect with me: https://www.linkedin.com/in/ipiyushsonar
+## Talk to me at:
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ipiyushsonar)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ipiyushsonar/)
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ipiyushsonar)   
 
 ---
 
@@ -30,6 +29,7 @@ Connect with me: https://www.linkedin.com/in/ipiyushsonar
 
 
 <!--
+![header](https://github.com/ipiyushsonar/ipiyushsonar/blob/master/wave.svg)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=230&section=header&text=Greetings%20👋&fontSize=80)
 
 - 🔭 I’m currently working on ...
@@ -37,7 +37,9 @@ Connect with me: https://www.linkedin.com/in/ipiyushsonar
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ipiyushsonar/) 
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/piyush.sonar.s)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer)
