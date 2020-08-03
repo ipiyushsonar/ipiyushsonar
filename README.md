@@ -23,21 +23,39 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software engineer, and by night I bui
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ipiyushsonar)   
 
 ---
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ipiyushsonar/ipiyushsonar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ipiyushsonar/ipiyushsonar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Piyush Sonar's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ipiyushsonar/ipiyushsonar.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=ipiyushsonar.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/ipiyushsonar/facial-recognition-saas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+<!--
+![header](https://github.com/ipiyushsonar/ipiyushsonar/blob/master/wave.svg)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=230&section=header&text=Greetings%20👋&fontSize=80)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=stars&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=stars&count_private=true" />
 
 <a href="https://github.com/ipiyushsonar/ipiyushsonar.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=ipiyushsonar.github.io" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-
-
-<!--
-![header](https://github.com/ipiyushsonar/ipiyushsonar/blob/master/wave.svg)
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=230&section=header&text=Greetings%20👋&fontSize=80)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
