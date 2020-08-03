@@ -1,5 +1,5 @@
 
-## Greetings 👋🏼
+# Hello, folks! <img src="https://raw.githubusercontent.com/ipiyushsonar/ipiyushsonar/master/wave.gif" width="30px">
 
 Hi! I'm Piyush 🙋‍♂️. By day I'm a software engineer, and by night I build apps for Windows 10 🙌🏽.
 
@@ -23,9 +23,16 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software engineer, and by night I bui
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ipiyushsonar)   
 
 ---
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar" />
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=["stars"])
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&hide=stars&count_private=true" />
 
+<a href="https://github.com/ipiyushsonar/ipiyushsonar.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=ipiyushsonar.github.io" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 <!--
