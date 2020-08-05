@@ -39,26 +39,30 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software developer/DevOps engineer, a
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html,TSQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html,TSQL&hide_border=true" />
 </a>
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Piyush Sonar's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&line_height=27&count_private=true" alt="Piyush Sonar's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ipiyushsonar/digital-marketplace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=digital-marketplace&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=digital-marketplace" />
 </a>
 
 <a href="https://github.com/ipiyushsonar/facial-recognition-saas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas" />
 </a>   
 
 ## Talk to me at:
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ipiyushsonar)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ipiyushsonar/)
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ipiyushsonar)   
 
 <!--
+# Readme Stats Custom Theme Colors
+&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
+
 ![header](https://github.com/ipiyushsonar/ipiyushsonar/blob/master/wave.svg)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=230&section=header&text=Greetings%20👋&fontSize=80)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ipiyushsonar/) 
