@@ -39,10 +39,10 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software developer/DevOps engineer, a
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html,TSQL&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&line_height=27&count_private=true&hide_border=true" alt="Piyush Sonar's GitHub Stats" />
 </a>
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&line_height=27&count_private=true&hide_border=true" alt="Piyush Sonar's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html,TSQL&hide_border=true" />
 </a>
 
 <a href="https://github.com/ipiyushsonar/digital-marketplace">
