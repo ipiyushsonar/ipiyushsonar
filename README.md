@@ -1,3 +1,7 @@
+<!-- <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Piyush Sonar</h1>
+
+<h3 align="center">A passionate frontend developer from India. By day I'm a software developer/DevOps engineer, and Data Science/Machine Learning Enthusiast.</h3> -->
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -36,6 +40,7 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software developer/DevOps engineer, a
 ![Red_Hat_OpenShift](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![Digital_Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+---
 
 ## &#x1f4c8; GitHub Stats
 
@@ -54,11 +59,17 @@ Hi! I'm Piyush 🙋‍♂️. By day I'm a software developer/DevOps engineer, a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas&hide_border=true" />
 </a>   
 
+<hr style="margin: 15px 0px 0px 0px" />
+
 ## Talk to me at:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ipiyushsonar)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ipiyushsonar/)
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ipiyushsonar)   
+
+<hr style="margin: 5px 0px 15px 0px" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipiyushsonar" alt="ipiyushsonar" /> </p>
 
 <!--
 # Readme Stats Custom Theme Colors
