@@ -13,6 +13,8 @@
   </a>
 </p>
 
+<br>
+
 ### Some facts about me:
 
 - Many would call me a "nerd", and I am okay with this 🧠 (I enjoy a good documentary or tech talk)
