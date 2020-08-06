@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/ipiyushsonar/"  target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/ipiyushsonar" target="blank">
+  <!-- <a href="https://dev.to/ipiyushsonar" target="blank">
     <img align="center" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <br>
