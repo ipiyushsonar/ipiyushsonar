@@ -1,6 +1,6 @@
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Hi! I'm Piyush 🙋‍♂️. A passionate frontend developer from India. By day I'm a software developer/DevOps engineer, and Data Science/Machine Learning Enthusiast.</h3>
+<h3 align="center">Hi! I'm Piyush 🙋‍♂️. A passionate frontend developer from India. I'm a software developer/DevOps engineer, and Data Science/Machine Learning Enthusiast.</h3>
 <p align="center">
   <a href="https://twitter.com/ipiyushsonar" target="blank">
     <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
