@@ -93,11 +93,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas&hide_border=true" />
 </a>
 
+<hr style="margin: 15px 0px 15px 0px" />
 
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vinayakkulkarni&column=7"/>
+  </a>
+</div>
 
 <hr style="margin: 15px 0px 15px 0px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipiyushsonar" alt="ipiyushsonar" /> </p>
+
+
+
 
 <!--
 # Readme Stats Custom Theme Colors
