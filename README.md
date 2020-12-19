@@ -76,6 +76,16 @@
 
 ---
 
+<a href="https://github.com/ipiyushsonar/digital-marketplace">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=digital-marketplace&hide_border=true" />
+</a>
+
+<a href="https://github.com/ipiyushsonar/facial-recognition-saas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas&hide_border=true" />
+</a>
+
+<!--
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
@@ -83,14 +93,6 @@
 </a>
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html,TSQL&hide_border=true" />
-</a>
-
-<a href="https://github.com/ipiyushsonar/digital-marketplace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=digital-marketplace&hide_border=true" />
-</a>
-
-<a href="https://github.com/ipiyushsonar/facial-recognition-saas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ipiyushsonar&repo=facial-recognition-saas&hide_border=true" />
 </a>
 
 <hr style="margin: 15px 0px 15px 0px" />
@@ -110,9 +112,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipiyushsonar" alt="ipiyushsonar" /> </p>
 
 
-
-
-<!--
 # Readme Stats Custom Theme Colors
 &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
 
@@ -133,6 +132,7 @@
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![Red_Hat_OpenShift](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![Digital_Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) 
+
 -->
 
 <!-- Resources -->
