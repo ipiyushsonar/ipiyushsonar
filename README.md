@@ -100,7 +100,7 @@
 
 <div  align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinayakkulkarni&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ipiyushsonar&column=7"/>
   </a>
 </div>
 
