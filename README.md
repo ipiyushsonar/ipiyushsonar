@@ -95,7 +95,7 @@
 
 <hr style="margin: 15px 0px 15px 0px" />
 
-<div>
+<div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vinayakkulkarni&column=7"/>
