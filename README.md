@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipiyushsonar&show_icons=true&line_height=27&count_private=true&hide_border=true" alt="Piyush Sonar's GitHub Stats" />
 </a>
 <a href="https://github.com/ipiyushsonar/ipiyushsonar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=java,html,TSQL&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushsonar&hide=css,scss,html&hide_border=true" />
 </a>
 
 ---
