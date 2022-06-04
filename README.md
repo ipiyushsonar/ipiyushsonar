@@ -1,4 +1,4 @@
-<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"></h1>
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 <h3 align="center">Hi! I'm Piyush 🙋‍♂️. A passionate frontend developer from India. I'm a software developer/DevOps engineer, and Data Science/Machine Learning Enthusiast.</h3>
 <p align="center">
