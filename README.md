@@ -61,6 +61,7 @@
 </p>
 
 ---
+<hr>
 
 ## 🏆 GitHub Profile Trophy
 
@@ -70,12 +71,10 @@
   </a>
 </div>
 
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipiyushsonar" alt="ipiyushsonar" /> </p>
-
----
 <!--
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipiyushsonar" alt="ipiyushsonar" /> </p>
+<hr>
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ipiyushsonar/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/piyush.sonar.s)
 -->
